@@ -1,0 +1,305 @@
+@media screen and (max-width: 1299px) {
+    .header__navigation, .button__header {
+    display: none;
+}
+
+.container {
+    width: 400px;
+}
+
+.body {
+    background-color: black;
+    font-size: 11px;
+}
+
+.header__telefon {
+    color: #FFFFFF;
+    display: contents;
+}
+
+.main-title {
+    font-size: 23px;
+    line-height: 132.83%;
+}
+
+.main__container {
+    padding-top: 0;
+    padding-left: 0;
+}
+
+.main__section-text {
+    font-size: 14px;
+    line-height: 135.84%;
+}
+
+.main__section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 476px;
+    padding-top: 85px;
+}
+
+.text-Rostov {
+    color: #E3B873;
+}
+
+.main-title {
+    color: #FFFFFF;
+}
+
+.main__section-button-item-one, .main__section-button-item-two {
+    width: 338px;
+    margin-top: 32px;
+}
+
+/*section project*/
+
+.section__second-frame {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.section__second-left {
+    margin-top: 36px;
+}
+
+.title {
+    font-size: 22px;
+}
+
+.title__text {
+    font-family: 'NunitoSans-Regular', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 11px;
+    line-height: 158%;
+    text-align: center;
+}
+
+.mini-FotoHome {
+    display: inline;
+    margin-top: 36px;
+    height: 241.3549346923828px;
+}
+
+.init-city {
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+}
+
+.section__second-right, .vectors {
+    display: none;
+}
+
+/*.section third*/
+
+.section__third {
+    margin-top: 20px;
+    background-color:#131313;
+}
+
+.section__third {
+    display: flex;
+    margin-top: -550px;
+    height: 810px;
+    left: 0;
+    top: 1774px;
+    width: 100%;
+}
+
+.Online {
+    color: white;
+    text-align: center;
+}
+
+.img-third {
+    height: 207px;
+    width: 340px;
+    display: flex;
+    align-items: center;
+}
+
+.Polygon {
+    width: 12px;
+    height: 12px;
+}
+
+.Ellipse {
+    width: 37px;
+    height: 37px;
+    margin-bottom: 65px;
+}
+
+.section__third-input {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.line-undeOnline {
+    margin-top: 28px;
+}
+
+.second__third-text {
+    font-size: 11px;
+    line-height: 169.8%;
+    color: white;
+}
+
+.button__input {
+    margin-top: 106px;
+    height: 51px;
+    width: 340px;
+    text-align: center;
+}
+
+.section_third-offer {
+    margin-top: -1px;
+}
+
+.checkbox {
+    display: flex;
+    justify-content: start;
+    margin-top: -130px;
+}
+
+.checkboxs-text {
+    color: #FFFFFF;
+}
+
+.input-phone {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.input-name {
+    background-color: #131313;
+}
+
+.input-why {
+    margin-bottom: 20px;
+}
+
+/*section types of repair*/
+
+.section__repair-four {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: -130px;
+    left: -300px;
+}
+
+.repair-img {
+    display: flex;
+    flex-direction: column;
+}
+
+.repair-img-two {
+    margin-top: 250px;
+    margin-bottom: 250px;
+}
+
+.section__fifth {
+    display: none;
+    position: relative;
+}
+
+.section__sixth {
+    display: none;
+    position: relative;
+}
+
+/*section seventh*/
+
+.section__seventh {
+    position: relative;
+    top: -290px;
+    left: 100px;
+}
+
+.input-seventh {
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    justify-content:flex-start;
+}
+
+.section__fifth-input {
+    display: flex;
+    flex-direction: column;
+}
+
+.seventh-container {
+    background-color: black;
+    width: 100%;
+    height: 520px;
+}
+
+.section__seventh-input {
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    justify-content:flex-start;
+    margin-left: 49px;
+    margin-bottom: 23px;
+}
+
+.checkbox-seventh {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content:flex-start;
+    margin-left: 49px;
+    margin-top: auto;
+}
+
+.button__input-seventh {
+    margin-top: -50px;
+    width: 340px;
+}
+
+.input-second [placeholder] {
+    font-size: 14px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+/*section ninth*/
+
+.section__ninth {
+    display: flex;
+    background-image: none;
+    background-color: black;
+    position: relative;
+    top: -25px;
+    left: 100px;
+    height: 500px;
+}
+
+.section__ninth:after {
+    display: none;
+}
+
+.ninth-title {
+    display: flex;
+    margin-top: 350px;
+    position: relative;
+    z-index: 0;
+}
+
+.ninth-maps {
+    display: flex;
+    height: 340px;
+    width: 455px;
+    margin-top: -700px;
+    position: relative;
+    z-index: 2;
+}
+
+footer {
+    display: none;
+}
+
+}
